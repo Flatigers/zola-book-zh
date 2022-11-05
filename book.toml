@@ -1,0 +1,6 @@
+[book]
+authors = ["flatig"]
+language = "zh-Hans"
+multilingual = false
+src = "src"
+title = "zola-book"
